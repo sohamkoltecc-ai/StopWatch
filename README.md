@@ -18,8 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Screenshot
+<img width="300" height="600" alt="Screenshot_1780574666" src="https://github.com/user-attachments/assets/f8da72e2-0441-430c-85eb-77b3e9b2061e" />
+
 
 <img width="300" height="600" alt="Screenshot_1780574673" src="https://github.com/user-attachments/assets/1e91ce49-17b6-4502-b8dc-590454c9cfd8" />
 
 
-<img width="300" height="600" alt="Screenshot_1780574666" src="https://github.com/user-attachments/assets/f8da72e2-0441-430c-85eb-77b3e9b2061e" />
+
