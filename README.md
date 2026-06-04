@@ -1,6 +1,5 @@
-# stopwatch
+# StopWatch
 
-A new Flutter project.
 
 ## Getting Started
 
